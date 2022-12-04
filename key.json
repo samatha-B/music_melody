@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "fir-rithika",
+    "private_key_id": "132079fea583582a9c0188c8d0e5c784722545ab",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs6j/2q7KHURE3\n5H0sjAe5GuuFPU0ASxo2gWzhcKNcnwX1g7rwcNd2wwB16EmAQwjXQadOhbVYbW4M\nIJO1xSkn+4j4CqAU+7bQpfVJaTAer1ZuGa16NWtykAyYUAs2uIgAOjkwfvmCpSqz\n4yH0IItzSNWHdZfzZv1Jaf0Y8k93kKpcGyHnCG+Eh8kuRQQQJ5lDj+L8HYcW9e+w\nyeC5CcVtemePjJ4caX8jaahBqevHM3lYukKprF2aA06pz0xvR3mjPi8lKXfObo23\nrgn+sD9dTsUpQX+ooKkgSf7ws0huQfzFSzL8d/s2VEYhK7ktpCZgu+2V+AkF5owV\nL7URnTY5AgMBAAECggEAB0yLvtTFwGFbPcsq6dXkX+YuFxhSFzHUYq9zwjrADpbA\n3eRTCwy8Wk1GHZ6x9unS0PalbRKxp7tWIp6/wB5ui7tEr3G6taq1b25zTEdrf6ls\n7NCv1Qw1uPwx0pPIZrrYiifrBkF0if+rrd8SgxdaQ5d0D1fW/kWJ6g7WX0v1L58N\nedNhVCZ/NI0lZd1LIbyTW9sfB3pRVu94anZuifZ1HfWPJpq1+vT/G2LCrFgfngsv\nhg1eFi8O4TjJFOcfkju42jt34X8zVyK7NR217JJTPJ3z8jYRQtMwDcc97/1qCNkE\nWtrIqaGBcU7J15lIUD6S8zI+ZB4PhJfrRPH7/h/8nQKBgQDdsGco5SsEB8lJZS59\n3pK8h1bCf+6z1RNIyPwU/FQyDqPD4B2Y/ERE02ELYCU/2VRkHFHkKLtMmdDgOpk7\nNCmuPzQ82LjxGs3G7I2FAuhPt7n2w3jbSSsJNGEgzPaj0rq+NZ62JioxT1AMrnj7\nOGRzCd6DOhT26J8kWdGsid+/BQKBgQDHrVvgjxJXlE8WaAVCJueq6tVjhSJ+9lRx\nGb4UX8sTZb9BatwrRkIML3T6Rf7Li+QyerA+R7VpaSqnOF7y1mw8bkXyfKUCs/Xx\nHu2enRtC+bBch3tgAS7UG9E0RX8ObpCz/yl/cZ037L94SM4oLpY6qtFkjqoL/CAI\n+jNbDoY4pQKBgDsZLrcROMFvTfK5/YXikt2deryJHFpmgCiUI9d4WP2rN28dTOae\nwZhTfXhp3iRCTKQPhKk9TokiLDPKi1TkGARypvtdjxf/XEIeh6+g0cuGoBWvkIVs\n4QMoKohy+4E6yTux0aifTfotOZrX3Dqkkuq0A9SZ5ELaSqqHI0VK0BH9AoGALqGM\nqFehN/S5t4jZWYaOabrn1JL96FqMg9E4M7ffTAth69wRyMVinUfj8KKyC0UDKMrA\nJ/tFIXXe8ShX/CwZIM+75BI50vTGBeZsJbOY7z4ycpltNZFxJzXL2II2Vt95SZ/Y\nSBv3VF0kpemSw42FpfPIbMxoZ94ceRw9LBGrRMUCgYBegXfULOwEZuGs/Fiv08n8\ndvhCKbueepxyWdEXQ9xmwaNwaf7XGCnuGM3AwjYW8TvHGLpp/O8/gGgry7tqWZmM\nWHBfowZORKDXJehe3VSJDDxGCgXO3P5FhusG6QOY+YqoBWu2ziANlU5W9u0olwlD\nCWUZNMNMePpvjON6oQDIwQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-55do0@fir-rithika.iam.gserviceaccount.com",
+    "client_id": "111230085812524474323",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-55do0%40fir-rithika.iam.gserviceaccount.com"
+  }
+  
